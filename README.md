@@ -2,6 +2,14 @@
 
 A Python tool to create a complete static mirror of a website from the Internet Archive's Wayback Machine. The script downloads HTML pages and all associated assets (CSS, JavaScript, images, PDFs, etc.) from a specific point in time, ensuring consistent styling and navigation.
 
+## Other Options
+
+This was an experiment. This is probably a better tool:
+https://github.com/hartator/wayback-machine-downloader/
+
+And there is also this service:
+https://www.waybackmachinedownloader.com/en/wayback-and-archive-downloader-pricing/
+
 ## Features
 
 - Create a fully functional offline copy of a website as it appeared at a specific date
